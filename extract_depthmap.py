@@ -5,7 +5,7 @@
 # The files can be posted directly on Facebook to generate a 3D Image.
 
 # Extended to work with P10, P20, P30, Mate20 Phones and Facebook by Stephan Martin 
-# based on the script from João Paulo Barraca for the P9
+# based on the script from João Paulo Barraca for the P9 https://github.com/jpbarraca/dual-camera-edof
 
 import sys
 import os
